@@ -7,7 +7,10 @@ body{
 
     h1{
         background-color:khaki;
+         color:red;
+        
     }
 p{
-    color:red
+    color:red;
+    background-color:khaki;
 }
